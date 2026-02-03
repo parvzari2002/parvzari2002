@@ -1,4 +1,4 @@
-Hi 👋, I'm Parvez Zariwala
+Hi 👋, I'm Parv Zari
 ============================
 
 > A passionate **Web Developer** working with **Laravel**, **PHP**, and **Filament**.  
