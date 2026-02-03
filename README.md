@@ -11,15 +11,15 @@ Hi 👋, I'm Parv Zari
 - 🌱 **I’m currently learning:** Advanced Laravel, Filament, and modern PHP practices  
 - 💼 **I work with:** Laravel, PHP, Filament, MySQL, Blade, Tailwind CSS  
 - 💡 **I enjoy:** Solving real-world problems with clean and scalable code  
-- 📫 **How to reach me:** `your-email@example.com`  
+- 📫 **How to reach me:** `parvzari2002@gmail.com`  
 - ⚡ **Fun fact:** I’m always exploring new ideas to gain more knowledge 💭  
 
 ---
 
 ### 🤝 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parvzari2002/)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tsx_mercy)  
 
 ---
 
